@@ -27,3 +27,4 @@ public class BankAccount
         return amount * 0.02m;
     }
 }
+// Updated lab assignment
