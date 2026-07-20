@@ -1,0 +1,14 @@
+/Users/Hita/Documents/ENSE707/bin/Debug/net10.0/ENSE707
+/Users/Hita/Documents/ENSE707/bin/Debug/net10.0/ENSE707.deps.json
+/Users/Hita/Documents/ENSE707/bin/Debug/net10.0/ENSE707.runtimeconfig.json
+/Users/Hita/Documents/ENSE707/bin/Debug/net10.0/ENSE707.dll
+/Users/Hita/Documents/ENSE707/bin/Debug/net10.0/ENSE707.pdb
+/Users/Hita/Documents/ENSE707/obj/Debug/net10.0/ENSE707.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Hita/Documents/ENSE707/obj/Debug/net10.0/ENSE707.AssemblyInfoInputs.cache
+/Users/Hita/Documents/ENSE707/obj/Debug/net10.0/ENSE707.AssemblyInfo.cs
+/Users/Hita/Documents/ENSE707/obj/Debug/net10.0/ENSE707.csproj.CoreCompileInputs.cache
+/Users/Hita/Documents/ENSE707/obj/Debug/net10.0/ENSE707.dll
+/Users/Hita/Documents/ENSE707/obj/Debug/net10.0/refint/ENSE707.dll
+/Users/Hita/Documents/ENSE707/obj/Debug/net10.0/ENSE707.pdb
+/Users/Hita/Documents/ENSE707/obj/Debug/net10.0/ENSE707.genruntimeconfig.cache
+/Users/Hita/Documents/ENSE707/obj/Debug/net10.0/ref/ENSE707.dll
